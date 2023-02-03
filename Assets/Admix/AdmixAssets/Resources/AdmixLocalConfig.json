@@ -1,0 +1,20 @@
+{
+  "InstantLoading": true,
+  "SdkUrls": {
+    "Services": "https://services.admixplay.com",
+    "InitServices": "https://shortapi.admixplay.com",
+    "Dashboard": "https://app.admixplay.com/",
+    "Docs": "https://docs.admix.in/docs/getting-started/admix-quickstart",
+    "DashboardAuthorized": "https://app.admixplay.com/dashboard/apps?token={0}&userId={1}"
+  },
+  "EndpointsUrls": {
+    "Login": "/auth-v1/users/tokens",
+    "RefreshToken": "/auth-v1/users/{0}/tokens",
+    "Settings": "/sdk-v1/setting/{0}"
+  },
+  "LoggerConfig": {
+    "IsEnabled": false,
+    "Level": 4,
+    "IsFileWriter": false
+  }
+}

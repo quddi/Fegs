@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7d84298bd9d5f764e8763c3186416727
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Foma_flibustier
+  fontNames:
+  - Foma_flibustier
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9dafb366d9ae4b74d8b2261ce093351d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,179 @@
+{
+    "stamp": "by 5f2c2f5e3e8034590e401bfa at 3 сентября 2022 г. 13:35:25",
+    "appId": "63132a2cf103610009aa28f7",
+    "appName": "Fegs",
+    "versionId": "63132a2cf103610009aa28f8",
+    "versionStatus": 0,
+    "versionSeq": 0,
+    "sdkRev": "2210",
+    "scenesList": [
+        {
+            "sceneName": "GameScene1",
+            "id": "63132b862e99f4000968f619",
+            "currentScenePath": "Assets/Scenes/GameScene1.unity",
+            "pathsHistory": [
+                "Assets/Scenes/GameScene1.unity"
+            ],
+            "placementsList": [
+                {
+                    "isSavedPlacement": true,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9fb7cea8d42a8b60ac7",
+                    "idInFile": 504995316,
+                    "placementType": 1,
+                    "placementId": "63132b89ac0fa50009332557",
+                    "placementName": "F9iNZguHSv8dwUJ9EclQ",
+                    "placementDisplayName": "Video_16x9",
+                    "sceneId": "63132b862e99f4000968f619",
+                    "textureResolution": {
+                        "x": 640.0,
+                        "y": 360.0
+                    }
+                },
+                {
+                    "isSavedPlacement": true,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9fb7cea8d42a8b60ac7",
+                    "idInFile": 51940107,
+                    "placementType": 1,
+                    "placementId": "63132b89ac0fa50009332558",
+                    "placementName": "VCq7OgRI1fH6rCGSdH61",
+                    "placementDisplayName": "Video_16x9 (1)",
+                    "sceneId": "63132b862e99f4000968f619",
+                    "textureResolution": {
+                        "x": 640.0,
+                        "y": 360.0
+                    }
+                }
+            ]
+        },
+        {
+            "sceneName": "_AdmixDynamicPlacements_",
+            "id": "63132b862e99f4000968f61a",
+            "currentScenePath": "",
+            "pathsHistory": [],
+            "placementsList": [
+                {
+                    "isSavedPlacement": false,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e8d47cea8d42a8b60ac0",
+                    "idInFile": 0,
+                    "placementType": 0,
+                    "placementId": "63132b89ac0fa50009332559",
+                    "placementName": "db_6x5",
+                    "placementDisplayName": "db_6x5",
+                    "sceneId": "63132b862e99f4000968f61a",
+                    "textureResolution": {
+                        "x": 300.0,
+                        "y": 250.0
+                    }
+                },
+                {
+                    "isSavedPlacement": false,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e90e7cea8d42a8b60ac1",
+                    "idInFile": 0,
+                    "placementType": 0,
+                    "placementId": "63132b89ac0fa5000933255a",
+                    "placementName": "db_32x5",
+                    "placementDisplayName": "db_32x5",
+                    "sceneId": "63132b862e99f4000968f61a",
+                    "textureResolution": {
+                        "x": 320.0,
+                        "y": 50.0
+                    }
+                },
+                {
+                    "isSavedPlacement": false,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9437cea8d42a8b60ac2",
+                    "idInFile": 0,
+                    "placementType": 0,
+                    "placementId": "63132b89ac0fa5000933255b",
+                    "placementName": "db_364x45",
+                    "placementDisplayName": "db_364x45",
+                    "sceneId": "63132b862e99f4000968f61a",
+                    "textureResolution": {
+                        "x": 728.0,
+                        "y": 90.0
+                    }
+                },
+                {
+                    "isSavedPlacement": false,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9587cea8d42a8b60ac3",
+                    "idInFile": 0,
+                    "placementType": 0,
+                    "placementId": "63132b89ac0fa5000933255c",
+                    "placementName": "db_4x15",
+                    "placementDisplayName": "db_4x15",
+                    "sceneId": "63132b862e99f4000968f61a",
+                    "textureResolution": {
+                        "x": 160.0,
+                        "y": 600.0
+                    }
+                },
+                {
+                    "isSavedPlacement": false,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9657cea8d42a8b60ac4",
+                    "idInFile": 0,
+                    "placementType": 0,
+                    "placementId": "63132b89ac0fa5000933255d",
+                    "placementName": "db_1x2",
+                    "placementDisplayName": "db_1x2",
+                    "sceneId": "63132b862e99f4000968f61a",
+                    "textureResolution": {
+                        "x": 300.0,
+                        "y": 600.0
+                    }
+                },
+                {
+                    "isSavedPlacement": false,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9757cea8d42a8b60ac5",
+                    "idInFile": 0,
+                    "placementType": 0,
+                    "placementId": "63132b89ac0fa5000933255e",
+                    "placementName": "db_97x25",
+                    "placementDisplayName": "db_97x25",
+                    "sceneId": "63132b862e99f4000968f61a",
+                    "textureResolution": {
+                        "x": 970.0,
+                        "y": 250.0
+                    }
+                },
+                {
+                    "isSavedPlacement": false,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9e47cea8d42a8b60ac6",
+                    "idInFile": 0,
+                    "placementType": 1,
+                    "placementId": "63132b89ac0fa5000933255f",
+                    "placementName": "dv_4x3",
+                    "placementDisplayName": "dv_4x3",
+                    "sceneId": "63132b862e99f4000968f61a",
+                    "textureResolution": {
+                        "x": 640.0,
+                        "y": 480.0
+                    }
+                },
+                {
+                    "isSavedPlacement": false,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9fb7cea8d42a8b60ac7",
+                    "idInFile": 0,
+                    "placementType": 1,
+                    "placementId": "63132b89ac0fa50009332560",
+                    "placementName": "dv_16x9",
+                    "placementDisplayName": "dv_16x9",
+                    "sceneId": "63132b862e99f4000968f61a",
+                    "textureResolution": {
+                        "x": 640.0,
+                        "y": 360.0
+                    }
+                }
+            ]
+        }
+    ]
+}

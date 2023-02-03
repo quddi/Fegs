@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DataForSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <_numsOfChoosedPeople>
+    <int>0</int>
+  </_numsOfChoosedPeople>
+  <_numsOfChoosedPlatforms>
+    <int>0</int>
+  </_numsOfChoosedPlatforms>
+  <_numsOfChoosedBonuses />
+  <_moneyCount>0</_moneyCount>
+  <_chosedPlatform>0</_chosedPlatform>
+</DataForSave>

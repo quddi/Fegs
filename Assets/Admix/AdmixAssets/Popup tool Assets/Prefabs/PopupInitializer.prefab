@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1145121424259408}
+  m_IsPrefabParent: 1
+--- !u!1 &1145121424259408
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4904696722980646}
+  - component: {fileID: 114635565762097624}
+  m_Layer: 0
+  m_Name: PopupInitializer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4904696722980646
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1145121424259408}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114635565762097624
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1145121424259408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 391056615, guid: e97a86927d98e084a8bf97d7deb72c19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  availableTemplates:
+  - {fileID: 114178113788661118, guid: 374003163f9fe394aa8ab75690312452, type: 2}
+  - {fileID: 114360226960233504, guid: 6c36a6a8616156f40a313c8dcc8634ed, type: 2}
+  - {fileID: 114680349879619748, guid: c57f2b3b40b6e664c9104c637ecef9c1, type: 2}
+  - {fileID: 114402894584675444, guid: 1e7cd6d5c6b2722478f4532214bbcd94, type: 2}
+  isInputSubmitted: 0
+  eventSystemPrefab: {fileID: 114850394148404356, guid: f68d6dd99fdf2f943ad151953f82c996,
+    type: 2}
+  previousOrientation: 0
