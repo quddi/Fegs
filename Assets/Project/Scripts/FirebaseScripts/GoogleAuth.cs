@@ -11,7 +11,7 @@ namespace Project.Scripts.FirebaseScripts
     public class GoogleAuth : MonoBehaviour
     {
         private const string GoogleWebClientId =
-            "349663146381-0rcbdp759pfi6tqu033es4i9378c0pbv.apps.googleusercontent.com";
+            "***.apps.googleusercontent.com";
 
         private GoogleSignInConfiguration _googleSignInConfiguration;
 
