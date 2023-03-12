@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349663146381",
+    "firebase_url": "https://fegs-e5118-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fegs-e5118",
+    "storage_bucket": "fegs-e5118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349663146381:android:aa23fccbd5992452eb8dc4",
+        "android_client_info": {
+          "package_name": "com.QuddiGames.goodByePeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349663146381-pmb0rnurc7slshtgmol3kef29ve3hrie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.QuddiGames.goodByePeople",
+            "certificate_hash": "88c783eaff0ec94ac8e9a38babbaa1c7fdc5343f"
+          }
+        },
+        {
+          "client_id": "349663146381-0rcbdp759pfi6tqu033es4i9378c0pbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALfxYD2kqSlLna2F41g9CKbuWELCLflLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349663146381-0rcbdp759pfi6tqu033es4i9378c0pbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
